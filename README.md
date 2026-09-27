@@ -28,6 +28,13 @@
  <img width="830" height="411" alt="image" src="https://github.com/user-attachments/assets/38ab1d36-09c3-4c28-b764-081a6e5365b1" />
  <img width="1213" height="318" alt="image" src="https://github.com/user-attachments/assets/4d6f9ce6-c4c7-4ad6-bc82-c68cacdb2d9c" />
 
+ ## Faire une configuration dynamique des routes de la gateway
+ 
+ <img width="1210" height="136" alt="image" src="https://github.com/user-attachments/assets/897049e4-cbba-4921-bea3-6a287231fd73" />
+ <img width="869" height="713" alt="image" src="https://github.com/user-attachments/assets/d486cbdf-a2f9-4f73-9892-5a4c1c5faa2e" />
+
+
+
 
 
 
