@@ -1,4 +1,4 @@
-# ecom_ms_app
+<img width="776" height="195" alt="image" src="https://github.com/user-attachments/assets/021d33ee-7ade-42aa-89d8-7d1fa23397f7" /><img width="753" height="362" alt="image" src="https://github.com/user-attachments/assets/7e976f93-70cb-432a-b870-ad146d786661" /># ecom_ms_app
 ## Créer le micro-service customer-service qui permet de gérer les client
 <img width="978" height="884" alt="image" src="https://github.com/user-attachments/assets/cc2c5821-944b-442b-ab72-c0fa9ff125de" />
 <img width="471" height="360" alt="image" src="https://github.com/user-attachments/assets/0bb30101-725d-4d32-819e-50dfdc0d3dd5" />
@@ -40,6 +40,24 @@
  
  ### tolérance aux pannes 
  <img width="511" height="170" alt="image" src="https://github.com/user-attachments/assets/dc758e9d-1826-4efa-b928-50e44532477c" />
+
+ ## Créer le service de configuration
+ <img width="872" height="520" alt="image" src="https://github.com/user-attachments/assets/1cf1bdda-ed0a-4841-9f86-c55326aa3924" />
+ <img width="969" height="686" alt="image" src="https://github.com/user-attachments/assets/4e0e8254-7a1f-4b9f-bfcb-f04948e87ab1" />
+ <img width="626" height="420" alt="image" src="https://github.com/user-attachments/assets/f9503af0-b992-4f14-b5ca-35e1820adc4c" />
+ <img width="635" height="334" alt="image" src="https://github.com/user-attachments/assets/1eb2aa8b-518f-4280-86c0-677b5855492c" />
+ <img width="776" height="195" alt="image" src="https://github.com/user-attachments/assets/70900112-39a9-42ab-9012-29b2df8950f0" />
+ <img width="753" height="362" alt="image" src="https://github.com/user-attachments/assets/98bc8f14-8588-44f8-be91-5e5b5dd562c7" />
+ <img width="814" height="361" alt="image" src="https://github.com/user-attachments/assets/c492f5e8-081c-4229-8270-c061cacab49f" />
+
+
+
+
+
+
+
+
+
 
 
 
