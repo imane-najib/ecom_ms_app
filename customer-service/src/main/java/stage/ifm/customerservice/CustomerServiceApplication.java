@@ -3,11 +3,14 @@ package stage.ifm.customerservice;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
+import stage.ifm.customerservice.config.CustomerConfigParams;
 import stage.ifm.customerservice.entities.Customer;
 import stage.ifm.customerservice.repository.CustomerRepository;
 
 @SpringBootApplication
+@EnableConfigurationProperties(CustomerConfigParams.class)
 public class CustomerServiceApplication {
 
     public static void main(String[] args) {
