@@ -33,6 +33,17 @@
  <img width="1210" height="136" alt="image" src="https://github.com/user-attachments/assets/897049e4-cbba-4921-bea3-6a287231fd73" />
  <img width="869" height="713" alt="image" src="https://github.com/user-attachments/assets/d486cbdf-a2f9-4f73-9892-5a4c1c5faa2e" />
 
+ ##  Créer le service de facturation Billing-Service en utilisant Open Feign
+ <img width="1198" height="449" alt="image" src="https://github.com/user-attachments/assets/c13a2edd-8a35-4b9d-a400-0ca536d0ff86" />
+ <img width="1236" height="661" alt="image" src="https://github.com/user-attachments/assets/ab22a089-2867-4df4-8202-a9fe29c61c84" />
+ <img width="865" height="900" alt="image" src="https://github.com/user-attachments/assets/e2f601e7-8e90-4f0e-b2f9-dd016cceaa47" />
+ ### tolérance aux pannes 
+ <img width="511" height="170" alt="image" src="https://github.com/user-attachments/assets/dc758e9d-1826-4efa-b928-50e44532477c" />
+
+
+
+
+
 
 
 
