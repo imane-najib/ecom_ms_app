@@ -50,6 +50,10 @@
  <img width="753" height="362" alt="image" src="https://github.com/user-attachments/assets/98bc8f14-8588-44f8-be91-5e5b5dd562c7" />
  <img width="814" height="361" alt="image" src="https://github.com/user-attachments/assets/c492f5e8-081c-4229-8270-c061cacab49f" />
 
+ ## Front end 
+ <img width="1687" height="928" alt="image" src="https://github.com/user-attachments/assets/4c330d37-c111-419b-ba9f-1a2d9044cd0d" />
+
+
 
 
 
